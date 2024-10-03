@@ -24,5 +24,6 @@ I am a student of BYU Pathway with a diploma and associate certificate in Web & 
 ## Let's Connect!
 
 - Here is my [LinkedIn] https://www.linkedin.com/in/ehedet/ profile
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
