@@ -6,12 +6,12 @@ I'm Emediong Henry Edet, a student at Brigham Young University-Idaho, interested
 
 # About Me
 
-I am a student of BYU Pathway with the degree of Associate of Applied Science in Applied Technology. I am working towards my BSC in Software Development in the same field. I am also a skilled mentor with 2 years of experience. I have worked as a clerk in charge of finance and individual records and data. I have also worked as a customer support specialist for 2 years with a wholesome set of experience. I am open to remote, hybrid, and on-site job vacancies and ready to be contacted
+I am a student of BYU Pathway with the degree of Associate of Applied Science in Applied Technology. I am working towards my BSC in Software Development in the same field. I am also a skilled mentor with 2 years of experience. I have worked as a clerk in charge of finance and individual records and data. I have also worked as a customer support specialist for 2 years with a wholesome set of experience. I am open to remote, hybrid, and on-site job vacancies and ready to be contacted.
 
 ## Technologies and Tools
 
 - Proficient in:   JavaScript, HTML, CSS, Responsive Web Design, SEO, JSON, React.js, jQuery, React Native, Tailwind CSS, Node.js, etc.
-- Skills:   •	UI/UX design for web and mobile software • Sound reasoning, decision making, and problem overcoming • Fluency in oral and written communication
+- Skills:   •	UI/UX design for web and mobile software • Sound reasoning, decision making, and problem overcoming • Fluency in oral and written communication.
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
