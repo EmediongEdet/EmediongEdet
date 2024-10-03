@@ -1,4 +1,4 @@
-# Emediong-Edet
+# Emediong Edet
 
 Hello, GitHub! 😍😍
 #
