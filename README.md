@@ -24,9 +24,17 @@ I am a student of BYU Pathway with the degree of Associate of Applied Science in
 ## Projects
 <div>
     <a href="https://emediongedet.github.io/Skep-pre-internship-project/">🛒 Shopping App</a>
+</div>
+<div>
     <a href="https://weather-app-rho-self.vercel.app/">☁️ Weather Forecasting App</a>
+</div>
+<div>
     <a href="https://emediongedet.github.io/Age-calculator-app/">🧮 Age Calculator App</a>
+</div>
+<div>
     <a href="https://emediongedet.github.io/wdd-230-230/chamber/chamber.html">💹 Chamber of Commerce Site</a>
+</div>
+<div>
     <a href="https://emediongedet.github.io/wdd-230-230/Temple/index.html">🛕 Temple Inn Site</a>
 </div>
 
