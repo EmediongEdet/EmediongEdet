@@ -1,7 +1,8 @@
 # Emediong-Edet
 
 Hello, GitHub! 😍😍
-I'm Emediong Henry Edet, a student at Brigham Young University-Idaho interested in Software Development/Interests such as: computer science, data science, web development, Customer Support, Book Keeping, Mentoring, ...>. Welcome to my GitHub profile!
+#
+I'm Emediong Henry Edet, a student at Brigham Young University-Idaho, interested in Software Development and computer science, data science, web development, Customer Support, Book Keeping, Mentoring, ...>. Welcome to my GitHub profile!
 
 # About Me
 
